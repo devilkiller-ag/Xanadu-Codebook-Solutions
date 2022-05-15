@@ -11,8 +11,7 @@ This repository contains solutions to codercises of [Xanadu Codebook](https://co
 <hr>
 
 ### [I.1](https://codebook.xanadu.ai/I.1) - All about qubits 
-1. [Codercise I.1.1.](https://github.com/devilkiller-ag/Xanadu-Codebook-Solutions/blob/main/I1-01-NormalizeTheQuantumState.ipynb) Suppose we are given an unnormalized quantum state 
-<br>
+1. [Codercise I.1.1.](https://github.com/devilkiller-ag/Xanadu-Codebook-Solutions/blob/main/I1-01-NormalizeTheQuantumState.ipynb) Suppose we are given an unnormalized quantum state
 |ψ⟩ = α|0⟩ + β|1⟩, |α|<sup>2</sup> + |β|<sup>2</sup> ≠ 1. 
 <br>
 We can turn this into an equivalent, valid quantum state by normalizing it. Write a function that, given α and β, normalizes this state to
