@@ -1,3 +1,4 @@
+<a href="https://pennylane.ai/"><img src="pennylane_thin.png"></a>
 # Xanadu Codebook Solutions
 
 This repository contains solutions to codercises of [Xanadu Codebook](https://codebook.xanadu.ai/) for Learning Quantum Computing using cross-platform python library for differential programming of quantum computers - [Pennylane](https://pennylane.ai/).
