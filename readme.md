@@ -23,9 +23,12 @@ This repository contains solutions to codercises of [Xanadu Codebook](https://co
 ### [I.2](https://codebook.xanadu.ai/I.2) - Quantum Circuits
 1. [Codercise I.2.1.](https://github.com/devilkiller-ag/Xanadu-Codebook-Solutions/blob/main/solutions/I2-01-QuantumCircuit1.ipynb) The code below is a quantum function with all the gates from the above circuit (which we reproduce here for convenience). However, the gates are out of order! Rearrange the lines of the function to match the order of operations in the circuit.
 <img src="https://codebook.xanadu.ai/pics/circuit_i-2-1.svg"/>
+
 2. [Codercise I.2.2.](https://github.com/devilkiller-ag/Xanadu-Codebook-Solutions/blob/main/solutions/I2-02-QuantumCircuit2.ipynb) Complete the quantum function in the PennyLane code below to implement the following quantum circuit. We'll then construct a QNode, and run the circuit on the provided device.
 <img src="https://codebook.xanadu.ai/pics/circuit_i-2-2.svg"/>
+
 3. [Codercise I.2.3.](https://github.com/devilkiller-ag/Xanadu-Codebook-Solutions/blob/main/solutions/I2-03-QuantumCircuit3.ipynb) The quantum function below implements the circuit from the previous exercise. Apply a decorator to the quantum function to construct a QNode, then run it using the provided input parameters.
+
 4. [Codercise I.2.4.](https://github.com/devilkiller-ag/Xanadu-Codebook-Solutions/blob/main/solutions/I2-04-CircuitDepth.ipynb) What is the depth of the circuit in the picture below?
 <img src="https://codebook.xanadu.ai/pics/circuit_i-2-2.svg"/>
 
